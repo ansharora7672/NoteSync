@@ -1,10 +1,12 @@
 **NoteSync**
+
 Collaborative Note-Taking Desktop Application
 
 **Overview**
 NoteSync is a powerful desktop application developed using C# and WPF within the .NET framework. It transforms traditional note-taking into a dynamic, interactive experience, ideal for team collaboration, online teaching, and creative projects.
 
-Features
+**Features**
+
 **Client Features**
 1. User Authentication: Users can sign up and log in.
 2. Notebook Management: Create and manage multiple notebooks.
