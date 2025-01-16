@@ -1,0 +1,18 @@
+﻿<Window x:Class="PROJ_4_FINAL_GUI.CanvasNameDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Canvas Name" Height="150" Width="250">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Label Content="Enter Canvas Name:" Grid.Row="0" Margin="10"/>
+        <TextBox x:Name="TextBoxName" Grid.Row="1" Margin="10"/>
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="10">
+            <Button x:Name="ButtonOk" Content="OK" Width="75" Margin="5" Click="OkButton_Click"/>
+            <Button x:Name="ButtonCancel" Content="Cancel" Width="75" Margin="5" Click="CancelButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,23 @@
+﻿<Window x:Class="PROJ_4_FINAL_GUI.HelpWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Contact Information" Height="300" Width="400">
+	<Grid>
+		<StackPanel Margin="20">
+			<TextBlock Text="Contact Information" FontWeight="Bold" FontSize="18" HorizontalAlignment="Center" Margin="0,0,0,20"/>
+			<StackPanel>
+				<TextBlock Text="Email:" FontWeight="Bold"/>
+				<TextBlock Text="support@notesync.com"/>
+			</StackPanel>
+			<StackPanel Margin="0,10,0,0">
+				<TextBlock Text="Phone:" FontWeight="Bold"/>
+				<TextBlock Text="+1 555 892 7253"/>
+			</StackPanel>
+			<StackPanel Margin="0,10,0,0">
+				<TextBlock Text="Address:" FontWeight="Bold"/>
+                <TextBlock Text="3557 40th Street
+Calgary, AB T2E 6X1"/>
+			</StackPanel>
+		</StackPanel>	
+	</Grid>
+</Window>

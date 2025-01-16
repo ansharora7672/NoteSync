@@ -1,0 +1,30 @@
+{
+  "PacketHeader": {
+    "Type": 0,
+    "SequenceNumber": 1,
+    "TimeStamp": "2024-04-07T21:42:55.4169625-04:00"
+  },
+  "PacketBody": {
+    "Data": null
+  }
+}
+{
+  "PacketHeader": {
+    "Type": 4,
+    "SequenceNumber": 1,
+    "TimeStamp": "2024-04-07T21:43:02.7676596-04:00"
+  },
+  "PacketBody": {
+    "Data": null
+  }
+}
+{
+  "PacketHeader": {
+    "Type": 6,
+    "SequenceNumber": 1,
+    "TimeStamp": "2024-04-07T21:43:10.8270595-04:00"
+  },
+  "PacketBody": {
+    "Data": "855393"
+  }
+}

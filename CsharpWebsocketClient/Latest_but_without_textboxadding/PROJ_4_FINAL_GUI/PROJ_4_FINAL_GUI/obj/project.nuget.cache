@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "yOlx9ureTmMxdoj+mvWAjYQDRC3w+eRNv6WUmO4Y75Y5WYsZZzgdX8MuzM3s9H/q5UO2nnzkBcR2FTBusRJ/Vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Manuj Mongia\\Downloads\\good_progress_client_v2\\Latest_but_without_textboxadding\\PROJ_4_FINAL_GUI\\PROJ_4_FINAL_GUI\\PROJ_4_FINAL_GUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Manuj Mongia\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Manuj Mongia\\.nuget\\packages\\websocketsharp-nonprerelease\\1.0.0\\websocketsharp-nonprerelease.1.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'WebSocketSharp-NonPreRelease 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "WebSocketSharp-NonPreRelease",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
